@@ -1,6 +1,6 @@
 ## About me
 A backend Scala developer at Wix.com, working on tooling around our data streaming infrastructure based on Kafka.\
-Checkout our opensource Kafak library [Greyhound](https://github.com/wix/greyhound).\
+Checkout our opensource Kafka library [Greyhound](https://github.com/wix/greyhound).\
 Love FP, recently have been very impressed with [ZIO](https://zio.dev) and its emerging echo-system. Enjoyed attending ZIO hackathons and making contributions to the project.\
 Love working on tools that make people's (and especially my) life easier.
 
