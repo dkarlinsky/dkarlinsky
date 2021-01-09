@@ -10,3 +10,5 @@ Love working on tools that make people's (and especially my) life easier.
 * [Demystifying functional effect systems in Scala](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
 * [Building a Super Easy Rate Limiter with ZIO](https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776)
 
+### Conference Talks:
+[Demystifying Functional Effect Systems, Or Build Your Own (Toy) ZIO](https://www.youtube.com/watch?v=Q4OCmKRPUf8) - Functinal Scala 2020
