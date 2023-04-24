@@ -1,6 +1,6 @@
 ## About me
 A backend Scala developer at Wix.com, on Application Security team.
-Focused on tools and processes that provide force multipliers to our security experts, to detect and prevent security vulnarabilits at Wix scale, in thousands of micro services worked on by hundereds of developers.
+Focused on tools and processes that provide force multipliers to our security experts, to detect and prevent security vulnarabilits at Wix scale, in thousands of micro services, worked on by hundreds of developers.
 Previously worked on tooling around Wix data streaming infrastructure based on Kafka.\
 Check out our opensource Kafka library [Greyhound](https://github.com/wix/greyhound).\
 Love FP, a big fan and a satisfied user of [ZIO](https://zio.dev) and its emerging echo-system. Enjoyed attending ZIO hackathons and making [contributions](https://github.com/zio/zio/pulls?q=is%3Apr+author%3Adkarlinsky+is%3Amerged) to the project.\
