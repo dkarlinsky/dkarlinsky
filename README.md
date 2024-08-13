@@ -13,4 +13,6 @@ Love working on tools that make people's (and especially my) life easier.
 * [Building a Super Easy Rate Limiter with ZIO](https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776)
 
 ### Conference Talks:
+
 * [Demystifying Functional Effect Systems, Or Build Your Own (Toy) ZIO](https://www.youtube.com/watch?v=Q4OCmKRPUf8) - Functinal Scala 2020
+* [Mind the Gap: Bridging The Gap Between ZIO Code & Legacy Frameworks & Libraries by Dmitry Karlinsky](https://www.youtube.com/watch?v=x-avfV_hj2w) - Functional Scala 2023 
